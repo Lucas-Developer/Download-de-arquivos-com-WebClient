@@ -1,0 +1,14 @@
+C:\_vb0816\Download_Arquivos\downloadFileExample05\bin\Debug\DownloadArquivos.exe
+C:\_vb0816\Download_Arquivos\downloadFileExample05\bin\Debug\DownloadArquivos.pdb
+C:\_vb0816\Download_Arquivos\downloadFileExample05\bin\Debug\DownloadArquivos.xml
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\DownloadArquivos.vbprojResolveAssemblyReference.cache
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\DownloadArquivos.frmMain.resources
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\DownloadArquivos.Resources.resources
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\DownloadArquivos.vbproj.GenerateResource.Cache
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\DownloadArquivos.exe.licenses
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\DownloadArquivos.exe
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\DownloadArquivos.xml
+C:\_vb0816\Download_Arquivos\downloadFileExample05\obj\Debug\DownloadArquivos.pdb
+C:\_vb0816\Download_Arquivos\DownloadArquivos\obj\Debug\DownloadArquivos.exe
+C:\_vb0816\Download_Arquivos\DownloadArquivos\obj\Debug\DownloadArquivos.xml
+C:\_vb0816\Download_Arquivos\DownloadArquivos\obj\Debug\DownloadArquivos.pdb
